@@ -1,0 +1,36 @@
+.firstPage {
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/firstPage.png);
+    background-repeat: no-repeat;
+}
+
+.navigationFirstPage {
+    background-color:rgba(0, 91, 193, 0.6);
+}
+
+.navigationFirstPage .logo {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    background-image: url(../img/logo.png);
+}
+
+.headerContent {
+    margin-top: 15%;
+    width: 60%;
+    z-index: 2;
+    position: relative;
+    right: 20%;
+}
+
+.headerContent p {
+    width: 75%;
+}
+
+.decoration {
+    z-index: 1;
+    width: 40%;
+    height: 744px;
+    background-color: rgba(0, 91, 193, 0.6);  
+}

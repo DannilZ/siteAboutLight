@@ -1,0 +1,35 @@
+.first {
+    border: 2px solid rgba(0, 91, 193, 1);
+    width: 100px;
+}
+
+.second {
+    border: 2px solid rgba(0, 91, 193, 1);
+    width: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+
+.catalog {
+    margin-top: 150px;
+}
+
+.product {
+    width: 350px;
+    height: 300px;
+    background-color: #A9A9A9;
+    border: 3px solid #005BC1;
+    box-sizing: border-box;
+}
+
+.productInfo {
+    width: 240px;
+    height: 70px;
+    margin-top: 62%;
+    margin-left: auto;
+    text-align: left;
+    padding: 10px 20px;
+    background-color: #005BC1;
+    font-size: 18px;
+}

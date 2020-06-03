@@ -1,0 +1,30 @@
+.first {
+    border: 2px solid rgba(0, 91, 193, 1);
+    width: 100px;
+}
+
+.second {
+    border: 2px solid rgba(0, 91, 193, 1);
+    width: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.news {
+    margin-top: 150px;
+}
+
+.newsBlock {
+    width: 23%;
+    margin-right: 2%;
+}
+
+.blockOne {
+    background-color: #A9A9A9;
+}
+
+.imgNewsBlock {
+    width: auto;
+    height: 60%;
+    background-color: #A9A9A9;
+}
